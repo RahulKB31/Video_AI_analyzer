@@ -64,7 +64,7 @@ The **Phidata Video AI Summarizer Agent** is a multimodal AI-powered application
 4. **View Results:** The results are displayed under the "Analysis Result" section.
 
 ## Demo Video
-[![Watch the Demo Video](C:\Users\Rahul\PycharmProjects\video_summarizer\video_ai.jpg)](https://www.loom.com/share/6ca38f4e78ef4e1db01ea68780ff2704?t=89&sid=c5221bd6-850f-4e9b-b984-70d9c36e47e7)
+[![Watch the Demo Video](https://github.com/RahulKB31/Video_AI_analyzer/blob/main/video_ai.jpg)](https://www.loom.com/share/6ca38f4e78ef4e1db01ea68780ff2704?t=89&sid=c5221bd6-850f-4e9b-b984-70d9c36e47e7)
 
 Click the thumbnail above to watch the demo video on YouTube.
 
